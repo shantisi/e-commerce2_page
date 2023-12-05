@@ -4,6 +4,7 @@ import Header from "./Header.js"
 import 	Sliderbox from "./Sliderbox";
 import Home from "./Homepage";
 import Subfooter from "./subfooter";
+import Footer from "./Footer.js";
 const Page = () => {
   return (
     <>
@@ -11,6 +12,7 @@ const Page = () => {
       <Sliderbox/><br/>
       <Home/><br/>
       <Subfooter/><br/>
+      <Footer/><br/>
        
     </>
   );
