@@ -1,7 +1,7 @@
 import Link from "next/link";
 import "bootstrap/dist/css/bootstrap.css";
 import Header from "./Header.js"
-import 	Sliderbox from "./Sliderbox";
+import Sliderbox from "./Sliderbox";
 import Home from "./Homepage";
 import Subfooter from "./subfooter";
 import Footer from "./Footer.js";
