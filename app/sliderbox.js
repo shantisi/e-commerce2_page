@@ -3,6 +3,7 @@ const Sliderbox = () => {
   return (
   	<>
   	   <div className="sliderbox" style={{ backgroundColor: "lightgray"}}>
+  	   
       	 <div className="container-fluid"style={{ width: "1800px", height: "300px" }}>   
       	    <div id="carouselExampleIndicators" class="carousel slide">
               <div class="carousel-indicators">
