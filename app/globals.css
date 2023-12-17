@@ -1,1 +1,54 @@
+
 @import "bootstrap/dist/css/bootstrap.css";
+
+.body{
+     
+
+}
+
+.home {
+  padding: 10px; 
+}
+.equal-height-box {
+  display: flex;
+  flex-direction: column;
+}
+.Home{
+    margin-right:800px;
+}
+
+.container {
+    width: 100%;
+}
+.col1{
+   text-align:center;
+}
+.col-2{
+   margin-top:10px;
+   margin:auto; 
+}
+
+.custom-left-align {
+  display: flex;
+  justify-content: flex; 
+}
+
+.custom-left-align a {
+  text-decoration: none;
+  color: blue;
+}
+.Men{
+    margin-right:1620px;
+}
+.Women{
+    margin-right:1620px;
+}
+.Jewelery{
+    margin-right:1685px;
+}
+.Electronics{
+    margin-right:1670px;
+}
+
+
+
